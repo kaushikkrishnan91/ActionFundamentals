@@ -66,6 +66,7 @@ For this workshop you need the following:
 - It is recommended to have a second screen for the hand-on labs
 
 [skip ci]
+[skip ci]
 
 ## Cheat Sheet
 Find common terminology for reference [here](./CheatSheet.md)
